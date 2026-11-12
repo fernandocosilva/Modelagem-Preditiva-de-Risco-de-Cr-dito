@@ -1,0 +1,41 @@
+categoria,registros,taxa_default,variavel
+Feminino,7164,0.05848687883863763,genero
+Masculino,11236,0.0634567461730153,genero
+Outro,350,0.054285714285714284,genero
+Casado,10915,0.06129180027485112,estado_civil
+Divorciado,1166,0.0711835334476844,estado_civil
+Solteiro,5914,0.05884342238755495,estado_civil
+Viúvo,755,0.06754966887417219,estado_civil
+Tipo 1,7458,0.05859479753285063,tipo_cidade
+Tipo 2,7173,0.06287466889725359,tipo_cidade
+Tipo 3,4119,0.06385044913814032,tipo_cidade
+A,1197,0.06683375104427736,estado
+B,1285,0.05758754863813229,estado
+C,1246,0.060995184590690206,estado
+D,1276,0.05877742946708464,estado
+E,1215,0.06419753086419754,estado
+F,1251,0.06634692246203037,estado
+G,1229,0.05695687550854353,estado
+H,1234,0.059967585089141004,estado
+I,1259,0.06751389992057188,estado
+J,1263,0.06175771971496437,estado
+K,1243,0.06033789219629927,estado
+L,1223,0.05560098119378577,estado
+M,1230,0.05203252032520325,estado
+N,1289,0.057408844065166796,estado
+O,1310,0.07404580152671755,estado
+Autonomo,2847,0.053389532841587636,tipo_emprego
+Empregado Setor Privado,8489,0.05972434915773354,tipo_emprego
+Empregado Setor Publico,1850,0.055135135135135134,tipo_emprego
+Empresario,2727,0.07334066740007333,tipo_emprego
+Servidor Publico,2837,0.06697215368346845,tipo_emprego
+Casamento,2561,0.06872315501757126,objetivo_emprestimo_solicitado
+Compra de Veiculo,1882,0.06057385759829968,objetivo_emprestimo_solicitado
+Educacao,1845,0.056910569105691054,objetivo_emprestimo_solicitado
+Emergencia Medica,2468,0.055915721231766614,objetivo_emprestimo_solicitado
+Expansao de Negocios,1503,0.06187624750499002,objetivo_emprestimo_solicitado
+Gasto Pessoal,4178,0.06294877932024892,objetivo_emprestimo_solicitado
+Pagamento de Divida,1851,0.06266882766072393,objetivo_emprestimo_solicitado
+Reforma em Imovel,2462,0.059301380991064176,objetivo_emprestimo_solicitado
+Nao,14680,0.06852861035422343,existencia_garantia
+Sim,4070,0.03562653562653563,existencia_garantia

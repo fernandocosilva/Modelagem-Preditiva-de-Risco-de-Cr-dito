@@ -1,0 +1,13 @@
+regra,registros_sinalizados,percentual_base
+Prestação positiva sem empréstimo declarado,7920,31.680000000000003
+Comprometimento atual superior a 50%,39,0.156
+Idade fora do intervalo 18–100,0,0.0
+Renda mensal não positiva,0,0.0
+Tempo de conta negativo,0,0.0
+Quantidade de empréstimos negativa,0,0.0
+Prestações mensais negativas,0,0.0
+Utilização de crédito fora de 0–100,0,0.0
+Consultas de crédito negativas,0,0.0
+Quantidade de atrasos negativa,0,0.0
+Valor solicitado não positivo,0,0.0
+Prazo solicitado não positivo,0,0.0

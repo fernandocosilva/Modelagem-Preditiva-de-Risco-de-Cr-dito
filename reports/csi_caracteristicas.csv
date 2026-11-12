@@ -1,0 +1,22 @@
+variavel,csi,status
+pagamentos_atrasados_ultimos_12meses,0.6417770770593088,Vermelho — revisão
+pct_comprometimento_renda_atual,0.05234191854676717,Verde — estável
+pct_comprometimento_renda_futuro,0.038086598313190737,Verde — estável
+renda_mensal,0.020009032205285326,Verde — estável
+pct_solicitado_sobre_renda_anual,0.008763268277800518,Verde — estável
+idade,0.0031810558141295384,Verde — estável
+valor_mensal_prestacoes_outros_emprestimos_atual,0.0025547160981143286,Verde — estável
+tempo_conta_bancaria,0.0020394079887790626,Verde — estável
+estado,0.0014002580986254085,Verde — estável
+valor_emprestimo_solicitado,0.001377376065566878,Verde — estável
+estado_civil,0.0010747733910783628,Verde — estável
+taxa_uso_credito,0.0009849964366182573,Verde — estável
+objetivo_emprestimo_solicitado,0.0009495727370127606,Verde — estável
+consultas_credito_ultimos_6meses,0.0005828569484477154,Verde — estável
+tipo_emprego,0.0005495490222564437,Verde — estável
+existencia_garantia,0.0005399562788223116,Verde — estável
+prazo_emprestimo_solicitado,0.0004952541076235222,Verde — estável
+qtde_outros_emprestimos_atual,0.00029387250870929846,Verde — estável
+tipo_cidade,0.00021204321502328125,Verde — estável
+genero,2.5606191914333992e-05,Verde — estável
+flag_prestacao_sem_emprestimo,0.0,Verde — estável

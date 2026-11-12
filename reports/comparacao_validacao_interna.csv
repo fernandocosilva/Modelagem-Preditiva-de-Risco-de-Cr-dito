@@ -1,0 +1,3 @@
+modelo,roc_auc_validacao,average_precision_validacao
+Regressão Logística,0.8081200592885376,0.2815355788080099
+LightGBM,0.8072220849802372,0.274744381809626

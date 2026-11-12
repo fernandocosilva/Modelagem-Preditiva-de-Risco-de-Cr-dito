@@ -1,0 +1,3 @@
+modelo,roc_auc_cv_medio,roc_auc_cv_desvio,average_precision_cv_medio,criterio
+Regressão Logística,0.8458294782836636,0.007789526845971418,0.3457783082853116,Baseline — folds da subpartição de desenvolvimento
+LightGBM,0.8323739956915989,0.008580996501824359,0.3100490571684214,Melhor combinação da busca — folds da subpartição de desenvolvimento
